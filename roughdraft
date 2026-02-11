@@ -42,9 +42,9 @@
     </tr>
     <tr class="form">
         <td align="right">
-            <label for="firstname">First Name</label> <br>
-            <label for="middleinit">MI</label><br>
-            <label for="lastname">Last</label>
+            <label for="firstname">First Name</label>
+            <label for="middleinit">MI</label>
+            <label for="lastname">Last Name</label>
         </td>
         <td>
              <input type="text"
