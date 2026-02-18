@@ -10,10 +10,10 @@
     <head>
         <meta charset="utf-8">
 
-        <title>Jake's Homework 1</title>
+        <title>Joel's Medical Form</title>
 
         <!-- Load external CSS styles -->
-        <link rel="stylesheet" href="homework1.css">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <div id="header"> 
@@ -24,8 +24,8 @@
                             id="logo" 
                             src="lcrvlogo.png" 
                             alt="Shasta Medical Form"
-                            width="20"
-                            height="30"
+                            width="40"
+                            height="40"
                         >
                     </td>
                     <td valign="top">Lake Conroe RV Resort</td>
