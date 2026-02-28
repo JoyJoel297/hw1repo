@@ -12,6 +12,7 @@ body
 }
 
 #header td {
+    text-align: center;
     font-family: verdana;
     font-size: 24px;       /* Makes "CadMD Medical Form" larger */
     font-weight: bold;
